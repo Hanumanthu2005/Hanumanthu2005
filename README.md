@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hanumantha%20Rao%20Vaddi&fontSize=42&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20Enthusiast&descAlignY=58&descColor=a0a0ff" alt="Header Banner" />
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg)" rx="10"/>
+  <path d="M0,160 C200,120 400,180 800,140 L800,200 L0,200 Z" fill="#1a1a3e" opacity="0.5"/>
+  <text x="400" y="95" font-family="monospace" font-size="32" font-weight="bold" fill="#00f5ff" text-anchor="middle">Hanumantha Rao Vaddi</text>
+  <text x="400" y="135" font-family="monospace" font-size="16" fill="#a0a0ff" text-anchor="middle">Full Stack Developer | Java and Spring Boot Enthusiast</text>
+  <text x="400" y="163" font-family="monospace" font-size="13" fill="#6a6aaa" text-anchor="middle">B.Tech IT - Final Year</text>
+</svg>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hanu+%F0%9F%91%8B;B.Tech+Final+Year+%7C+IT;Java+%2B+Spring+Boot+Backend+Dev;Building+cool+full-stack+projects!)](https://git.io/typing-svg)
 
@@ -115,6 +128,17 @@ public class Hanu extends Developer {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Hanumanthu2005&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#24243e"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="120" fill="url(#footerbg)" rx="10"/>
+  <path d="M0,40 C200,80 600,20 800,60 L800,0 L0,0 Z" fill="#1a1a3e" opacity="0.5"/>
+  <text x="400" y="75" font-family="monospace" font-size="14" fill="#00f5ff" text-anchor="middle">Thanks for visiting! Let us build something amazing together 🚀</text>
+</svg>
 
 </div>

@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hanumantha%20Rao%20Vaddi&fontSize=42&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20Enthusiast&descAlignY=58&descColor=a0a0ff)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hanumantha%20Rao%20Vaddi&fontSize=42&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20Enthusiast&descAlignY=58&descColor=a0a0ff" alt="Header Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hanu+%F0%9F%91%8B;B.Tech+Final+Year+%7C+CSE;Java+%2B+Spring+Boot+Backend+Dev;Building+cool+full-stack+projects!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hanu+%F0%9F%91%8B;B.Tech+Final+Year+%7C+IT;Java+%2B+Spring+Boot+Backend+Dev;Building+cool+full-stack+projects!)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@ public class Hanu extends Developer {
 
     String name       = "Hanumantha Rao Vaddi";
     String role       = "Full Stack Developer";
-    String education  = "B.Tech CSE — Final Year";
+    String education  = "B.Tech IT — Final Year";
     String focus      = "Java + Spring Boot Backend Development";
 
     String[] currentlyLearning = {
